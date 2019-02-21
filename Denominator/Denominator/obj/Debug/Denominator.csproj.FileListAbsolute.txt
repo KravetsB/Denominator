@@ -1,0 +1,7 @@
+C:\Users\Bohdan\Source\Repos\Denominator\Denominator\Denominator\bin\Debug\Denominator.exe.config
+C:\Users\Bohdan\Source\Repos\Denominator\Denominator\Denominator\bin\Debug\Denominator.exe
+C:\Users\Bohdan\Source\Repos\Denominator\Denominator\Denominator\bin\Debug\Denominator.pdb
+C:\Users\Bohdan\Source\Repos\Denominator\Denominator\Denominator\obj\Debug\Denominator.csprojAssemblyReference.cache
+C:\Users\Bohdan\Source\Repos\Denominator\Denominator\Denominator\obj\Debug\Denominator.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\Source\Repos\Denominator\Denominator\Denominator\obj\Debug\Denominator.exe
+C:\Users\Bohdan\Source\Repos\Denominator\Denominator\Denominator\obj\Debug\Denominator.pdb
